@@ -1,1 +1,1 @@
-# networked-systems
+# Laboratory exercises on Networked Systems
